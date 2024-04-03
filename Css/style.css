@@ -51,4 +51,5 @@ nav h1 {
 .lista li a:hover {
     background: #31363F;
     color: #EEEEEE;
+    border-radius: 5px;
 }
